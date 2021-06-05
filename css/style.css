@@ -151,16 +151,16 @@ img.header-title{
 
 .scrolldown{
 	position:absolute;
-	bottom:20px;
+	bottom:32px;
 	left:50%;
 }
 
 .scrolldown span{
 	position: absolute;
 	left:10px;
-	bottom:10px;
+	bottom:16px;
 	color: #fff;
-	font-size: 0.7rem;
+	font-size: 1rem;
 	letter-spacing: 0.05em;
 	-ms-writing-mode: tb-rl;
     -webkit-writing-mode: vertical-rl;
@@ -199,7 +199,7 @@ img.header-title{
 	bottom: 0;
 	left: 0;
 	width: 2px;
-	height: 50px;
+	height: 60px;
 	background: #fff;
 }
 
