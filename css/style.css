@@ -823,7 +823,8 @@ footer{
 
 	/* about-sp */
 	.about-text{
-		padding-bottom: 80px;
+		padding-top: 15%;
+		padding-bottom: 15%;
 	}
 
 	.about-lead{
